@@ -18,11 +18,11 @@
 ## Sentence Selection 
 1. Feature Extraction
     - Sentence Similarity - Ahish
-    - Common words to the title - Bhavyajeet
-    - Similar to summary - Bhavyajeet
+    - Common words to the title - Bhavyajeet --> DONE
+    - Similar to summary - Bhavyajeet 
     - Superlative - Pranav --> DONE
-    - Abbreviations - Pranav
-    - Number (Y/N) - Pranav
+    - Abbreviations - Pranav --> DONE
+    - Number (Y/N) - Pranav --> DONE
     - Certain Keyword (later)
     - Sentence Position in Para - Already provided by preprocessing
     - Length of sentence - Already provided by preprocessing
