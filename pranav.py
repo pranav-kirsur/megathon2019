@@ -32,3 +32,12 @@ def abbrevs_per_length(sentence):
             num+=1
     return num / len(sentence)
 
+def nouns_per_length(sentence):
+    tokenized = word_tokenize(sentence)
+    pos_tagged = nltk.pos_tag(tokenized)
+    num = 0
+    for i in pos_tagged:
+        if i[1] == 'NN' or i[1] == 'NNS' or i[1] == 'NNP' or i[1] == 'NNPS':
+            num += 1
+    return num / len(sentence)
+    
