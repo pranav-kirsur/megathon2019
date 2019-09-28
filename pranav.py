@@ -17,9 +17,18 @@ def number_of_superlatives(sentence):
     return num / len(sentence)
 
 
-
 def has_number(input):
-    res = bool(re.search(r'\d', input)) 
+    res = bool(re.search(r'\d', input))
     if res:
         return 1
     return 0
+
+
+def abbrevs_per_length(sentence):
+    tokenized = word_tokenize(sentence)
+    num = 0
+    for i in tokenized:
+        if re.match(r'^[A-Z\.]{2,}$',i):
+            num+=1
+    return num / len(sentence)
+
