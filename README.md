@@ -30,4 +30,12 @@
     - Number of Pronouns / Length - Jai
     - Discourse Connective - Jai
 2. Neural Network Design - Ahish / Jai
+
+
+## Keywords Selection
+1. Feature Extraction
+    - Parse Tree Height
+    - Similarity to Title
+    - Other Sequence Labelling things
+2. Neural Network Design 
    
