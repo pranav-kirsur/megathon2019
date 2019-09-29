@@ -104,9 +104,9 @@ def _generate_summary(sentences, sentenceValue, threshold):
 
 
 
-def getSimtoSum(i,paragraph):
+def getSimtoSum(i, paragraph):
     l=_create_frequency_table(paragraph)
-
+    # i = sent_tokenize(paragraph)
     scoredict = _score_sentences(i,l)
     threshold = _find_average_score(scoredict)
     summary = _generate_summary(i, scoredict, 1.5 * threshold)
@@ -132,3 +132,6 @@ def getSimtoSum(i,paragraph):
 
 
     return finallist
+
+
+print(getSimtoSum(['Hi how are', '\n', '', 'you'], 'Hi how are \n you' ))

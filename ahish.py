@@ -4,7 +4,7 @@
 # In[37]:
 
 
-import tensorflow
+# import tensorflow
 import numpy
 import nltk 
 # nltk.download()
