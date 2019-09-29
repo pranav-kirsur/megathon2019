@@ -4,6 +4,7 @@ import re
 # nltk.download('averaged_perceptron_tagger')
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.stem.snowball import SnowballStemmer
 
 
 # TODO error handling for 0 sentence length
@@ -49,6 +50,27 @@ def pronouns_per_length(sentence):
         if i[1] == 'PRP' or i[1] == 'PRP$':
             num += 1
     return num / len(sentence)
+
+
+#Check special words
+
+keywords = ["define"]
+stemmed_keywords = []
+
+stemmer = SnowballStemmer("english")
+
+for i in keywords:
+    stemmed_keywords.append(stemmer.stem(i))
+
+
+def keyword_present(sentence):
+    tokenized = word_tokenize(sentence)
+    for token in tokenized:
+        if stemmer.stem(token) in stemmed_keywords:
+            return 1
+    return 0
+
+
 
 
     
