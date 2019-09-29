@@ -1,295 +1,408 @@
-{"text": "Classification of Elements and Periodicity in Properties ", "fib": "Classification"}
-{"text": "After studying this Unit, you will be able to \u2022 appreciate how the concept of grouping elements in accordance to their properties led to the development of Periodic Table ", "fib": "Periodic"}
-{"text": "It is a remarkable demonstration of the fact that the chemical elements are not a random cluster of entities but instead display trends and lie together in families ", "fib": "chemical"}
-{"text": "Seaborg In this Unit, we will study the historical development of the Periodic Table as it stands today and the Modern Periodic Law ", "fib": "Law"}
-{"text": "We will also learn how the periodic classification follows as a logical consequence of the electronic configuration of atoms ", "fib": "atoms"}
-{"text": "Finally, we shall examine some of the periodic trends in the physical and chemical properties of the elements ", "fib": "chemical"}
-{"text": "3.1 WHY DO WE NEED TO CLASSIFY ELEMENTS ? We know by now that the elements are the basic units of all types of matter ", "fib": "3.1"}
-{"text": "In 1800, only 31 elements were known ", "fib": "1800"}
-{"text": "By 1865, the number of identified elements had more than doubled to 63 ", "fib": "1865"}
-{"text": "At present 114 elements are known ", "fib": "114"}
-{"text": "Not only that it would rationalize known chemical facts about elements, but even predict new ones for undertaking further study. 3.2 GENESIS OF PERIODIC CLASSIFICATION Classification of elements into groups and development of Periodic Law and Periodic Table are the consequences of systematising the knowledge gained by a number of scientists through their observations and experiments ", "fib": ""}
-{"text": "In each case, he noticed that the middle element of each of the Triads had an atomic weight about half way between the atomic weights of the other two (Table 3.1) ", "fib": "3.1"}
+{"text": "\u2022 understand the Periodic Law; \u2022 understand the significance of atomic number and electronic configuration as the basis for periodic classification; \u2022 name the elements with Z >100 according to IUPAC nomenclature; \u2022 classify elements into s, p, d, f blocks and learn their main characteristics; \u2022 recognise the periodic trends in physical and chemical properties of elements; \u2022 compare the reactivity of elements and correlate it with their occurrence in nature; \u2022 explain the relationship between ionization enthalpy and metallic character; \u2022 use scientific vocabulary appropriately to communicate ideas related to certain important properties of atoms e.g., atomic/ ionic radii, ionization enthalpy, electron gain enthalpy, electronegativity, valence of elements. ", "fib": "100"}
+{"text": "The Periodic Table is arguably the most important concept in chemistry, both in principle and in practice ", "fib": "Periodic"}
+{"text": "It is the everyday support for students, it suggests new avenues of research to professionals, and it provides a succinct organization of the whole of chemistry ", "fib": "chemistry"}
+{"text": "Glenn T ", "fib": "Glenn"}
+{"text": "Efforts to synthesise new elements are continuing ", "fib": "Efforts"}
+{"text": "With such a large number of elements it is very difficult to study individually the chemistry of all these elements and their innumerable compounds individually ", "fib": "chemistry"}
 {"text": "Also the properties of the middle element were in between those of the other two members ", "fib": "members"}
-{"text": "Since Dobereiner\u2019s relationship, referred to as the Law of Triads, seemed to work only for a few elements, it was dismissed as coincidence ", "fib": "Dobereiner"}
-{"text": "The next reported attempt to classify elements was made by a French geologist, A.E.B ", "fib": "A.E.B"}
-{"text": "de Chancourtois in 1862 ", "fib": "1862"}
-{"text": "He arranged the then known elements in order of increasing atomic weights and made a cylindrical table of elements to display the periodic recurrence of properties ", "fib": "atomic"}
 {"text": "This also did not attract much attention ", "fib": "much"}
-{"text": "The relationship was just like every eighth note that resembles the first in octaves of music ", "fib": "eighth"}
+{"text": "The English chemist, John Alexander Newlands in 1865 profounded the Law of Octaves ", "fib": "1865"}
 {"text": "Newlands\u2019s Law of Octaves seemed to be true only for elements up to calcium ", "fib": "Newlands"}
 {"text": "Although his idea was not widely accepted at that time, he, for his work, was later awarded Davy Medal in 1887 by the Royal Society, London ", "fib": "1887"}
 {"text": "Table 3.1 Dobereiner\u2019s Triads ", "fib": "3.1"}
+{"text": "The Periodic Law, as we know it today owes its development to the Russian chemist, Dmitri Mendeleev (1834-1907) and the German chemist, Lothar Meyer (1830-1895) ", "fib": "1830-1895"}
+{"text": "Working independently, both the chemists in 1869 proposed that on arranging elements in the increasing order of their atomic weights, similarities appear in physical and chemical properties at regular intervals ", "fib": "1869"}
 {"text": "Lothar Meyer plotted the physical properties such as atomic volume, melting point and boiling point against atomic weight and obtained a periodically repeated pattern ", "fib": "Lothar"}
 {"text": "Unlike Newlands, Lothar Meyer observed a change in length of that repeating pattern ", "fib": "Lothar"}
+{"text": "By 1868, Lothar Meyer had developed a table of the elements that closely resembles the Modern Periodic Table ", "fib": "1868"}
+{"text": "However, his work was not published until after the work of Dmitri Mendeleev, the scientist who is generally credited with the development of the Modern Periodic Table. ", "fib": "Dmitri"}
+{"text": "Table 3.2 Newlands\u2019 Octaves ", "fib": "3.2"}
+{"text": "While Dobereiner initiated the study of periodic relationship, it was Mendeleev who was responsible for publishing the Periodic Law for the first time ", "fib": "Dobereiner"}
 {"text": "It states as follows : The properties of the elements are a periodic function of their atomic weights ", "fib": "atomic"}
+{"text": "Mendeleev arranged elements in horizontal rows and vertical columns of a table in order of their increasing atomic weights in such a way that the elements with similar properties occupied the same vertical column or group ", "fib": "Mendeleev"}
 {"text": "Mendeleev\u2019s system of classifying elements was more elaborate than that of Lothar Meyer\u2019s ", "fib": "Lothar"}
 {"text": "He fully recognized the significance of periodicity and used broader range of physical and chemical properties to classify the elements ", "fib": "broader"}
 {"text": "In particular, Mendeleev relied on the similarities in the empirical formulas and properties of the compounds formed by the elements ", "fib": "Mendeleev"}
 {"text": "He realized that some of the elements did not fit in with his scheme of classification if the order of atomic weight was strictly followed ", "fib": "atomic"}
-{"text": "He ignored the order of atomic weights, thinking that the atomic measurements might be incorrect, and placed the elements with similar properties together ", "fib": "atomic"}
 {"text": "For example, iodine with lower atomic weight than that of tellurium (Group VI) was placed in Group VII along with fluorine, chlorine, bromine because of similarities in properties ", "fib": "Group"}
-{"text": "For example, both gallium and germanium were unknown at the time Mendeleev published his Periodic Table ", "fib": "Mendeleev"}
+{"text": "He left the gap under aluminium and a gap under silicon, and called these elements Eka-Aluminium and Eka-Silicon ", "fib": "Eka-Aluminium"}
+{"text": "Mendeleev predicted not only the existence of gallium and germanium, but also described some of their general physical properties ", "fib": "Mendeleev"}
+{"text": "These elements were discovered later ", "fib": "elements"}
 {"text": "Some of the properties predicted by Mendeleev for these elements and those found experimentally are listed in Table 3.3. ", "fib": "3.3"}
-{"text": "Table 3.3 Mendeleev\u2019s Predictions for the Elements Eka-aluminium (Gallium) and Eka-silicon (Germanium) ", "fib": "3.3"}
-{"text": "Mendeleev\u2019s Periodic Table published in 1905 is shown in . ", "fib": "1905"}
+{"text": "The boldness of Mendeleev\u2019s quantitative predictions and their eventual success made him and his Periodic Table famous ", "fib": "Mendeleev"}
 {"text": "PERIODIC SYSTEM OF THE ELEMENTS IN GROUPS AND SERIES ", "fib": ""}
 {"text": "A plot of (whereis frequency of X-rays emitted) against atomic number (Z ) gave a straight line and not the plot of vs atomic mass ", "fib": "X-rays"}
+{"text": "He thereby showed that the atomic number is a more fundamental property of an element than its atomic mass ", "fib": "atomic"}
 {"text": "Mendeleev\u2019s Periodic Law was, therefore, accordingly modified ", "fib": "Law"}
-{"text": "This is known as the Modern Periodic Law and can be stated as : The physical and chemical properties of the elements are periodic functions of their atomic numbers ", "fib": "Law"}
 {"text": "The Periodic Law revealed important analogies among the 94 naturally occurring elements (neptunium and plutonium like actinium and protoactinium are also found in pitch blende \u2013 an ore of uranium) ", "fib": "94"}
-{"text": "It stimulated renewed interest in Inorganic Chemistry and has carried into the present with the creation of artificially produced short-lived elements ", "fib": "Chemistry"}
-{"text": "You may recall that the atomic number is equal to the nuclear charge (i.e., number of protons) or the number of electrons in a neutral atom ", "fib": "atomic"}
-{"text": "It is then easy to visualize the significance of quantum numbers and electronic configurations in periodicity of elements ", "fib": "electronic"}
-{"text": "A modern version, the so-called \u201clong form\u201d of the Periodic Table of the elements , is the most convenient and widely used ", "fib": "Periodic"}
-{"text": "The period number corresponds to the highest principal quantum number (n) of the elements in the period ", "fib": "corresponds"}
-{"text": "The seventh period is incomplete and like the sixth period would have a theoretical maximum (on the basis of quantum numbers) of 32 elements ", "fib": "32"}
+{"text": "Numerous forms of Periodic Table have been devised from time to time ", "fib": "Numerous"}
+{"text": "According to the recommendation of International Union of Pure and Applied Chemistry (IUPAC), the groups are numbered from 1 to 18 replacing the older notation of groups IA \u2026 VIIA, VIII, IB \u2026 VIIB and 0 ", "fib": "0"}
 {"text": "Their synthesis and characterisation, therefore, require highly sophisticated costly equipment and laboratory ", "fib": "characterisation"}
-{"text": "Such work is carried out with competitive spirit only in some laboratories in the world ", "fib": "Such"}
-{"text": "Scientists, before collecting the reliable data on the new element, at times get tempted to claim for its discovery ", "fib": "Scientists"}
-{"text": "For example, both American and Soviet scientists claimed credit for discovering element 104 ", "fib": "104"}
-{"text": "The Americans named it Rutherfordium whereas Soviets named it Kurchatovium ", "fib": "Americans"}
-{"text": "To avoid such problems, the IUPAC has made recommendation that until a new element\u2019s discovery is proved, and its name is officially recognised, a systematic nomenclature be derived directly from the atomic number of the element using the numerical roots for 0 and numbers 1-9 ", "fib": "0"}
-{"text": "These are shown in Table 3.4 ", "fib": "3.4"}
-{"text": "The roots are put together in order of digits which make up the atomic number and \u201cium\u201d is added at the end ", "fib": "atomic"}
-{"text": "The IUPAC names for elements with Z above 100 are shown in Table 3.5. ", "fib": "100"}
-{"text": "* Glenn T ", "fib": "*"}
-{"text": "In 1951, Seaborg was awarded the Nobel Prize in chemistry for his work ", "fib": ""}
 {"text": "Element 106 has been named Seaborgium (Sg) in his honour. ", "fib": "106"}
+{"text": "Table 3.4 Notation for IUPAC Nomenclature of Elements ", "fib": "3.4"}
 {"text": "Table 3.5 Nomenclature of Elements with Atomic Number Above 100 ", "fib": ""}
+{"text": "Thus, the new element first gets a temporary name, with symbol consisting of three letters ", "fib": ""}
+{"text": "The permanent name might reflect the country (or state of the country) in which the element was discovered, or pay tribute to a notable scientist ", "fib": "country"}
+{"text": "As of now, elements with atomic numbers up to 118 have been discovered ", "fib": "118"}
 {"text": "Problem 3.1 What would be the IUPAC name and symbol for the element with atomic number 120? Solution From Table 3.4, the roots for 1, 2 and 0 are un, bi and nil, respectively ", "fib": "0"}
-{"text": "3.5 ELECTRONIC CONFIGURATIONS OF ELEMENTS AND THE PERIODIC TABLE In the preceding unit we have learnt that an electron in an atom is characterised by a set of four quantum numbers, and the principal quantum number (n ) defines the main energy level known as shell ", "fib": ""}
 {"text": "We have also studied about the filling of electrons into different subshells, also referred to as orbitals (s, p, d, f) in an atom ", "fib": ""}
-{"text": "In this section we will observe a direct connection between the electronic configurations of the elements and the long form of the Periodic Table ", "fib": "Periodic"}
+{"text": "The distribution of electrons into orbitals of an atom is called its electronic configuration ", "fib": "atom"}
+{"text": "An element\u2019s location in the Periodic Table reflects the quantum numbers of the last orbital filled ", "fib": "Periodic"}
 {"text": "(a) Electronic Configurations in Periods The period indicates the value of n for the outermost or valence shell ", "fib": "Electronic"}
-{"text": "In other words, successive period in the Periodic Table is associated with the filling of the next higher principal energy level (n = 1, n = 2, etc.) ", "fib": ""}
-{"text": "It can be readily seen that the number of elements in each period is twice the number of atomic orbitals available in the energy level that is being filled ", "fib": "atomic"}
 {"text": "The first period (n = 1) starts with the filling of the lowest level (1s) and therefore has two elements \u2014 hydrogen (ls1) and helium (ls2) when the first shell (K) is completed ", "fib": ""}
+{"text": "The next element, beryllium has four electrons and has the electronic configuration 1s22s2 ", "fib": "1s22s2"}
 {"text": "Starting from the next element boron, the 2p orbitals are filled with electrons when the L shell is completed at neon (2s22p6) ", "fib": "2p"}
 {"text": "Thus there are 8 elements in the second period ", "fib": "8"}
-{"text": "The fourth period ends at krypton with the filling up of the 4p orbitals ", "fib": "4p"}
-{"text": "Altogether we have 18 elements in this fourth period ", "fib": "18"}
+{"text": "The third period (n = 3) begins at sodium, and the added electron enters a 3s orbital ", "fib": "3"}
+{"text": "The fourth period (n = 4) starts at potassium, and the added electrons fill up the 4s orbital ", "fib": "4"}
+{"text": "Now you may note that before the 4p orbital is filled, filling up of 3d orbitals becomes energetically favourable and we come across the so called 3d transition series of elements ", "fib": "3d"}
+{"text": "This starts from scandium (Z = 21) which has the electronic configuration 3d14s2 ", "fib": "21"}
+{"text": "The 3d orbitals are filled at zinc (Z=30) with electronic configuration 3d104s2 ", "fib": "3d"}
 {"text": "The fifth period (n = 5) beginning with rubidium is similar to the fourth period and contains the 4d transition series starting at yttrium (Z = 39) ", "fib": "39"}
 {"text": "This period ends at xenon with the filling up of the 5p orbitals ", "fib": "5p"}
-{"text": "The sixth period (n = 6) contains 32 elements and successive electrons enter 6s, 4f, 5d and 6p orbitals, in the order \u2014 filling up of the 4f orbitals begins with cerium (Z = 58) and ends at lutetium (Z = 71) to give the 4f-inner transition series which is called the lanthanoid series ", "fib": "32"}
-{"text": "The seventh period (n = 7) is similar to the sixth period with the successive filling up of the 7s, 5f, 6d and 7p orbitals and includes most of the man-made radioactive elements ", "fib": "5f"}
-{"text": "Problem 3.2 How would you justify the presence of 18 elements in the 5th period of the Periodic Table? Solution When n = 5, l = 0, 1, 2, 3 ", "fib": ""}
-{"text": "The total number of orbitals available are 9 ", "fib": "9"}
+{"text": "The order in which the energy of the available orbitals 4d, 5s and 5p increases is 5s < 4d < 5p ", "fib": "4d"}
 {"text": "The maximum number of electrons that can be accommodated is 18; and therefore 18 elements are there in the 5th period. ", "fib": "18"}
-{"text": "3.6 ELECTRONIC CONFIGURATIONS AND TYPES OF ELEMENTS: s-, p-, d-, f- BLOCKS The aufbau (build up) principle and the electronic configuration of atoms provide a theoretical foundation for the periodic classification ", "fib": ""}
-{"text": "The elements in a vertical column of the Periodic Table constitute a group or family and exhibit similar chemical behaviour ", "fib": "Periodic"}
-{"text": "This similarity arises because these elements have the same number and same distribution of electrons in their outermost orbitals ", "fib": "electrons"}
-{"text": "We notice two exceptions to this categorisation ", "fib": "categorisation"}
+{"text": "For example, the Group 1 elements (alkali metals) all have ns1 valence shell electronic configuration as shown below ", "fib": "1"}
+{"text": "We can classify the elements into four blocks viz., s-block, p-block, d-block and f-block depending on the type of atomic orbitals that are being filled with electrons ", "fib": "atomic"}
 {"text": "The other exception is hydrogen ", "fib": "hydrogen"}
 {"text": "3.6.1 The s-Block Elements ", "fib": "3.6.1"}
-{"text": "The elements of Group 1 (alkali metals) and Group 2 (alkaline earth metals) which have ns1 and ns2 outermost electronic configuration belong to the s-Block Elements ", "fib": "1"}
-{"text": "They are all reactive metals with low ionization enthalpies ", "fib": "enthalpies"}
-{"text": "They lose the outermost electron(s) readily to form 1+ ion (in the case of alkali metals) or 2+ ion (in the case of alkaline earth metals) ", "fib": "1+"}
-{"text": "The metallic character and the reactivity increase as we go down the group ", "fib": "group"}
-{"text": "The compounds of the s-block elements, with the exception of those of lithium and beryllium are predominantly ionic ", "fib": "beryllium"}
-{"text": "They are all metals ", "fib": "metals"}
+{"text": "3.6.3 The d-Block Elements (Transition Elements) These are the elements of Group 3 to 12 in the centre of the Periodic Table ", "fib": "12"}
 {"text": "They mostly form coloured ions, exhibit variable valence (oxidation states), paramagnetism and oftenly used as catalysts ", "fib": "catalysts"}
-{"text": "However, Zn, Cd and Hg which have the electronic configuration, (n-1) d10ns2 do not show most of the properties of transition elements ", "fib": "Cd"}
-{"text": "In a way, transition metals form a bridge between the chemically active metals of s-block elements and the less active elements of Groups 13 and 14 and thus take their familiar name \u201cTransition Elements\u201d ", "fib": "13"}
-{"text": "Problem 3.4 Considering the atomic number and position in the periodic table, arrange the following elements in the increasing order of metallic character : Si, Be, Mg, Na, P ", "fib": ""}
-{"text": "Hence the order of increasing metallic character is: P < Si < Be < Mg < Na. ", "fib": ""}
-{"text": "3.7 PERIODIC TRENDS IN PROPERTIES OF ELEMENTS There are many observable patterns in the physical and chemical properties of elements as we descend in a group or move across a period in the Periodic Table ", "fib": ""}
-{"text": "For example, within a period, chemical reactivity tends to be high in Group 1 metals, lower in elements towards the middle of the table, and increases to a maximum in the Group 17 non-metals ", "fib": "1"}
-{"text": "In this section we shall discuss the periodic trends in certain physical and chemical properties and try to explain them in terms of number of electrons and energy levels ", "fib": "chemical"}
-{"text": "3.7.1 Trends in Physical Properties There are numerous physical properties of elements such as melting and boiling points, heats of fusion and vaporization, energy of atomization, etc ", "fib": "3.7.1"}
-{"text": "which show periodic variations ", "fib": "periodic"}
-{"text": "In other words, there is no practical way by which the size of an individual atom can be measured ", "fib": "individual"}
-{"text": "However, an estimate of the atomic size can be made by knowing the distance between the atoms in the combined state ", "fib": "atomic"}
+{"text": "The chemistry of the early actinoids is more complicated than the corresponding lanthanoids, due to the large number of oxidation states possible for these actinoid elements ", "fib": "actinoid"}
+{"text": "3.6.5 Metals, Non-metals and Metalloids In addition to displaying the classification of elements into s-, p-, d-, and f-blocks, shows another broad classification of elements based on their properties ", "fib": "3.6.5"}
+{"text": "However, we shall discuss the periodic trends with respect to atomic and ionic radii, ionization enthalpy, electron gain enthalpy and electronegativity ", "fib": "electronegativity"}
+{"text": "(a) Atomic Radius You can very well imagine that finding the size of an atom is a lot more complicated than measuring the radius of a ball ", "fib": "Atomic"}
+{"text": "Secondly, since the electron cloud surrounding the atom does not have a sharp boundary, the determination of the atomic size cannot be precise ", "fib": "atom"}
+{"text": "We can explain these trends in terms of nuclear charge and energy level ", "fib": "energy"}
+{"text": "The atomic size generally decreases across a period as illustrated in (a) for the elements of the second period ", "fib": "atomic"}
 {"text": "Within a family or vertical column of the periodic table, the atomic radius increases regularly with atomic number as illustrated in (b) ", "fib": "atomic"}
-{"text": "The size of an anion will be larger than that of the parent atom because the addition of one or more electrons would result in increased repulsion among the electrons and a decrease in effective nuclear charge ", "fib": "addition"}
-{"text": "For example, the ionic radius of fluoride ion (F\u2013 ) is 136 pm whereas the atomic radius of fluorine is only 64 pm ", "fib": "136"}
-{"text": "* Two or more species with same number of atoms, same number of valence electrons and same structure, regardless of the nature of elements involved. ", "fib": "*"}
+{"text": "In fact radii of noble gases should be compared not with the covalent radii but with the van der Waals radii of other elements ", "fib": "Waals"}
+{"text": "In this case, the net repulsion of the electrons will outweigh the nuclear charge and the ion will expand in size. ", "fib": "case"}
+{"text": "Hence the largest species is Mg; the smallest one is Al3+. ", "fib": "Al3+"}
+{"text": "(c) Ionization Enthalpy A quantitative measure of the tendency of an element to lose electron is given by its Ionization Enthalpy ", "fib": ""}
+{"text": "It represents the energy required to remove an electron from an isolated gaseous atom (X) in its ground state ", "fib": "X"}
+{"text": "X(g) \u2192 X+(g) + e\u2013 (3.1) The ionization enthalpy is expressed in units of kJ mol\u20131 ", "fib": "+"}
+{"text": "X+(g) \u2192 X2+(g) + e\u2013 (3.2) Energy is always required to remove electrons from an atom and hence ionization enthalpies are always positive ", "fib": "+"}
 {"text": "The first ionization enthalpies of elements having atomic numbers up to 60 are plotted in ", "fib": "60"}
-{"text": "This situation occurs in the case of alkali metals which have single outermost ns-electron preceded by a noble gas electronic configuration. ", "fib": "alkali"}
-{"text": "In this case, increase in shielding outweighs the increasing nuclear charge and the removal of the outermost electron requires less energy down a group ", "fib": "case"}
-{"text": "From (a), you will also notice that the first ionization enthalpy of boron (Z = 5) is slightly less than that of beryllium (Z = 4) even though the former has a greater nuclear charge ", "fib": "4"}
+{"text": "The periodicity of the graph is quite striking ", "fib": "graph"}
+{"text": "In addition, you will notice two trends the first ionization enthalpy generally increases as we go across a period and decreases as we descend in a group ", "fib": "addition"}
+{"text": "The effective nuclear charge experienced by a valence electron in an atom will be less than the actual charge on the nucleus because of \u201cshielding\u201d or \u201cscreening\u201d of the valence electron from the nucleus by the intervening core electrons ", "fib": ""}
+{"text": "For example, the 2s electron in lithium is shielded from the nucleus by the inner core of 1s electrons ", "fib": "1s"}
 {"text": "When we consider the same principal quantum level, an s-electron is attracted to the nucleus more than a p-electron ", "fib": "level"}
 {"text": "In beryllium, the electron removed during the ionization is an s-electron whereas the electron removed during ionization of boron is a p-electron ", "fib": "beryllium"}
-{"text": "Predict whether the first \u2206i H value for Al will be more close to 575 or 760 kJ mol\u20131 ? Justify your answer ", "fib": "575"}
-{"text": "For many elements energy is released when an electron is added to the atom and the electron gain enthalpy is negative ", "fib": "atom"}
-{"text": "We should also expect electron gain enthalpy to become less negative as we go down a group because the size of the atom increases and the added electron would be farther from the nucleus ", "fib": "atom"}
-{"text": "This is generally the case (Table 3.7) ", "fib": "3.7"}
-{"text": "However, electron gain enthalpy of O or F is less negative than that of the succeeding element ", "fib": ""}
-{"text": "This is because when an electron is added to O or F, the added electron goes to the smaller n = 2 quantum level and suffers significant repulsion from the other electrons present in this level ", "fib": "2"}
-{"text": "For the n = 3 quantum level (S or Cl), the added electron occupies a larger region of space and the electron-electron repulsion is much less. ", "fib": "S"}
-{"text": "All these periodic trends are summarised in figure 3.7. ", "fib": "3.7"}
-{"text": "(a) Periodicity of Valence or Oxidation States The valence is the most characteristic property of the elements and can be understood in terms of their electronic configurations ", "fib": "Oxidation"}
-{"text": "The valence of representative elements is usually (though not necessarily) equal to the number of electrons in the outermost orbitals and / or equal to eight minus the number of outermost electrons as shown below ", "fib": "/"}
-{"text": "Solution (a) Silicon is group 14 element with a valence of 4; bromine belongs to the halogen family with a valence of 1 ", "fib": "1"}
-{"text": "(b) Aluminium belongs to group 13 with a valence of 3; sulphur belongs to group 16 elements with a valence of 2 ", "fib": "13"}
-{"text": "Hence, the formula of the compound formed would be Al2S3. ", "fib": "Al2S3"}
-{"text": "Some periodic trends observed in the valence of elements (hydrides and oxides) are shown in Table 3.9 ", "fib": "3.9"}
-{"text": "(b) Anomalous Properties of Second Period Elements The first element of each of the groups 1 (lithium) and 2 (beryllium) and groups 13-17 (boron to fluorine) differs in many respects from the other members of their respective group ", "fib": "1"}
+{"text": "Therefore, it is easier to remove the 2p-electron from boron compared to the removal of a 2s- electron from beryllium ", "fib": "2p-electron"}
+{"text": "Thus, boron has a smaller first ionization enthalpy than beryllium ", "fib": "beryllium"}
+{"text": "Problem 3.7 Which of the following will have the most negative electron gain enthalpy and which the least negative? P, S, Cl, F ", "fib": "S"}
+{"text": "Explain your answer ", "fib": "answer"}
+{"text": "Solution Electron gain enthalpy generally becomes more negative across a period as we move from left to right ", "fib": "Electron"}
+{"text": "However, adding an electron to the 2p-orbital leads to greater repulsion than adding an electron to the larger 3p-orbital ", "fib": "2p-orbital"}
+{"text": "Hence the element with most negative electron gain enthalpy is chlorine; the one with the least negative electron gain enthalpy is phosphorus. ", "fib": "element"}
+{"text": "(e) Electronegativity A qualitative measure of the ability of an atom in a chemical compound to attract shared electrons to itself is called electronegativity ", "fib": ""}
+{"text": "Unlike ionization enthalpy and electron gain enthalpy, it is not a measureable quantity ", "fib": "electron"}
+{"text": "The one which is the most widely used is the Pauling scale ", "fib": "one"}
+{"text": "If energy is released when an electron is added to an atom, the electron affinity is taken as positive, contrary to thermodynamic convention ", "fib": "affinity"}
+{"text": "If energy has to be supplied to add an electron to an atom, then the electron affinity of the atom is assigned a negative sign ", "fib": "affinity"}
+{"text": "However, electron affinity is defined as absolute zero and, therefore at any other temperature (T) heat capacities of the reactants and the products have to be taken into account in \u2206egH = \u2013Ae \u2013 5/2 RT. ", "fib": "5/2"}
+{"text": "The trend is similar to that of ionization enthalpy. ", "fib": "enthalpy"}
+{"text": "Table 3.8(a) Electronegativity Values (on Pauling scale) Across the Periods ", "fib": ""}
+{"text": "Table 3.8(b) Electronegativity Values (on Pauling scale) Down a Family 3.7.2 Periodic Trends in Chemical Properties Most of the trends in chemical properties of elements, such as diagonal relationships, inert pair effect, effects of lanthanoid contraction etc ", "fib": ""}
+{"text": "Nowadays the term oxidation state is frequently used for valence ", "fib": "oxidation"}
+{"text": "Problem 3.8 Using the Periodic Table, predict the formulas of compounds which might be formed by the following pairs of elements; (a) silicon and bromine (b) aluminium and sulphur ", "fib": "3.8"}
 {"text": "For example, lithium unlike other alkali metals, and beryllium unlike other alkaline earth metals, form compounds with pronounced covalent character; the other members of these groups predominantly form ionic compounds ", "fib": "beryllium"}
-{"text": "Problem 3.9 Are the oxidation state and covalency of Al in [AlCl(H2O)5]2+ same ? Solution No ", "fib": ""}
-{"text": "Oxides of elements in the centre are amphoteric (e.g., Al2O3, As2O3) or neutral (e.g., CO, NO, N2O) ", "fib": ""}
-{"text": "Solution Na2O with water forms a strong base whereas Cl2O7 forms strong acid ", "fib": "Cl2O7"}
-{"text": "Na2O + H2O \u2192 2NaOH Cl2O7 + H2O \u2192 2HClO4 Their basic or acidic nature can be qualitatively tested with litmus paper. ", "fib": ""}
-{"text": "Thus, the metallic character increases down the group and non-metallic character decreases ", "fib": "decreases"}
-{"text": "Non-metals, which are located at the top of the periodic table, are less than twenty in number ", "fib": "Non-metals"}
-{"text": "The atomic radii decrease while going from left to right in a period and increase with atomic number in a group ", "fib": "atomic"}
+{"text": "In fact the behaviour of lithium and beryllium is more similar with the second element of the following group i.e., magnesium and aluminium, respectively ", "fib": "aluminium"}
+{"text": "That is, all chemical and physical properties are a manifestation of the electronic configuration of elements ", "fib": "chemical"}
+{"text": "This results into high chemical reactivity at the two extremes and the lowest in the centre ", "fib": "centre"}
+{"text": "This property can be related with the reducing and oxidizing behaviour of the elements which you will learn later ", "fib": ""}
+{"text": "Thus, the metallic character of an element, which is highest at the extremely left decreases and the non-metallic character increases while moving from left to right across the period ", "fib": "element"}
+{"text": "As a consequence, they are less electropositive than group 1 and 2 metals ", "fib": "1"}
+{"text": "Four types of elements can be recognized in the periodic table on the basis of their electronic configurations ", "fib": "Four"}
+{"text": "These are s-block, p-block, d-block and f-block elements ", "fib": "d-block"}
+{"text": "Hydrogen with one electron in the 1s orbital occupies a unique position in the periodic table ", "fib": "1s"}
+{"text": "Oxides formed of the elements on the left are basic and of the elements on the right are acidic in nature ", "fib": "Oxides"}
 {"text": "Oxides of elements in the centre are amphoteric or neutral. ", "fib": "Oxides"}
+{"text": "3.15 Energy of an electron in the ground state of the hydrogen atom is \u20132.18\u00d710\u201318J ", "fib": "3.15"}
+{"text": "3.22 What is the basic difference between the terms electron gain enthalpy and electronegativity? 3.23 How would you react to the statement that the electronegativity of N on Pauling scale is 3.0 in all the nitrogen compounds? 3.24 Describe the theory associated with the radius of an atom as it (a) gains an electron (b) loses an electron 3.25 Would you expect the first ionization enthalpies for two isotopes of the same element to be the same or different? Justify your answer ", "fib": ""}
 {"text": "(b) Identify an element that would tend to lose two electrons ", "fib": "b"}
-{"text": "(c) Identify an element that would tend to gain two electrons ", "fib": "c"}
-{"text": "(d) Identify the group having metal, non-metal, liquid as well as gas at the room temperature ", "fib": "d"}
-{"text": "Table of Contents ", "fib": "Contents"}
-{"text": "Unit 3 ", "fib": "3"}
-{"text": "3.2 GENESIS OF PERIODIC CLASSIFICATION ", "fib": ""}
-{"text": "3.7.2 Periodic Trends in Chemical Properties ", "fib": "3.7.2"}
-{"text": "3.7.3 Periodic Trends and Chemical Reactivity ", "fib": "3.7.3"}
-{"text": "A thousand years later, a Polish monk named Nicolas Copernicus (1473-1543) proposed a definitive model in which the planets moved in circles around a fixed central sun ", "fib": "Copernicus"}
-{"text": "His theory was discredited by the church, but notable amongst its supporters was Galileo who had to face prosecution from the state for his beliefs ", "fib": "Galileo"}
-{"text": "The ellipse, of which the circle is a special case, is a closed curve which can be drawn very simply as follows. ", "fib": "circle"}
-{"text": "Join the points F1 and F2 and extend the line to intersect the ellipse at points P and A as shown in (b) ", "fib": ""}
+{"text": "Which of the above elements is likely to be : (a) the least reactive element ", "fib": "elements"}
+{"text": "(c) the most reactive non-metal ", "fib": "c"}
+{"text": "(c) Each block contains a number of columns equal to the number of electrons that can occupy that subshell ", "fib": "block"}
+{"text": "3.35 Anything that influences the valence electrons will affect the chemistry of the element ", "fib": "3.35"}
+{"text": "Classification of Elements and Periodicity in Properties ", "fib": "Classification"}
+{"text": "3.4 NOMENCLATURE OF ELEMENTS WITH ATOMIC NUMBERS > 100 ", "fib": "100"}
+{"text": "3.6.1 The s-Block Elements ", "fib": "3.6.1"}
+{"text": "3.6.2 The p-Block Elements ", "fib": "3.6.2"}
+{"text": "3.7.1 Trends in Physical Properties ", "fib": "3.7.1"}
+{"text": "SUMMARY ", "fib": "SUMMARY"}
+{"text": "Exercises ", "fib": "Exercises"}
+{"text": "8.1 Introduction Early in our lives, we become aware of the tendency of all material objects to be attracted towards the earth ", "fib": "8.1"}
+{"text": "Anything thrown up falls down towards the earth, going uphill is lot more tiring than going downhill, raindrops from the clouds above fall towards the earth and there are many other such phenomena ", "fib": "clouds"}
+{"text": "Historically it was the Italian Physicist Galileo (1564-1642) who recognised the fact that all bodies, irrespective of their masses, are accelerated towards the earth with a constant acceleration ", "fib": "Galileo"}
+{"text": "It is said that he made a public demonstration of this fact ", "fib": "fact"}
+{"text": "The only motion that was thought to be possible for celestial objects was motion in a circle ", "fib": "celestial"}
+{"text": "Similar theories were also advanced by Indian astronomers some 400 years later ", "fib": "400"}
+{"text": "His compiled data were analysed later by his assistant Johannes Kepler (1571-1640) ", "fib": "1571-1640"}
+{"text": "Take a length of a string and fix its ends at F1 and F2 by pins ", "fib": "F1"}
+{"text": "For a circle, the two focii merge into one and the semi-major axis becomes the radius of the circle ", "fib": "circle"}
+{"text": "This law comes from the observations that planets appear to move slower when they are farther from the sun than when they are nearer. ", "fib": "law"}
+{"text": "Table 8.1 Data from measurement of planetary motions given below confirm Kepler\u2019s Law of Periods (a \u2261 Semi-major axis in units of 1010 m ", "fib": "1010"}
 {"text": "T \u2261 Time period of revolution of the planet in years(y) ", "fib": "T"}
-{"text": "Let the Sun be at the origin and let the position and momentum of the planet be denoted by r and p respectively ", "fib": "Sun"}
+{"text": "A central force is such that the force on the planet is along the vector joining the Sun and the planet ", "fib": "Sun"}
 {"text": "This is the law of areas ", "fib": "areas"}
-{"text": "Example 8.1 Let the speed of the planet at the perihelion P in (a) be vP and the Sun-planet distance SP be rP ", "fib": "8.1"}
-{"text": "Similarly, LA = mp rA vA ", "fib": "="}
-{"text": "The two results (1) and (2) described above, therefore, apply to the motion of the planet ", "fib": "1"}
-{"text": "In fact, the result (2) is the well-known second law of Kepler. ", "fib": "2"}
-{"text": "Tr is the trejectory of the particle under the central force ", "fib": "Tr"}
-{"text": "At a position P, the force is directed along OP, O is the centre of the force taken as the origin ", "fib": "O"}
-{"text": "The area swept in \u2206t is the area of sector POP\u2032 \u2248 (r sin \u03b1 ) PP\u2032/2 = (r v sin a) \u2206t/2.) ", "fib": "="}
-{"text": "(8.3) ", "fib": "8.3"}
-{"text": "(a) What is the force acting on a mass 2m placed at the centroid G of the triangle? (b) What is the force if the mass at the vertex A is doubled ? Take AG = BG = CG = 1 m (see ) ", "fib": ""}
-{"text": "Each point mass in the extended object will exert a force on the given point mass and these force will not all be in the same direction ", "fib": "force"}
+{"text": "He formulated the three laws of planetary motion based on the painstaking observations of Tycho Brahe and coworkers ", "fib": "Brahe"}
+{"text": "Kepler himself was an assistant to Brahe and it took him sixteen long years to arrive at the three planetary laws ", "fib": "Brahe"}
+{"text": "Hence the planet will take a longer time to traverse BAC than CPB. ", "fib": "BAC"}
+{"text": "The time period T is about 27.3 days and Rm was already known then to be about 3.84 \u00d7 10\u00ad8m ", "fib": "10\u00ad8m"}
+{"text": "The angular momentum of the particle is conserved, if the torquedue to the force F on it vanishes ", "fib": "F"}
+{"text": "Central forces satisfy this condition ", "fib": "Central"}
+{"text": "Two important results follow from this: (1) The motion of a particle under the central force is always confined to a plane ", "fib": "1"}
+{"text": "Stated Mathematically, Newton\u2019s gravitation law reads : The force F on a point mass m2 due to another point mass m1 has the magnitude (8.5) ", "fib": ""}
+{"text": "Alternatively, one expects on the basis of symmetry that the resultant force ought to be zero ", "fib": "basis"}
+{"text": "(b) Now if the mass at vertex A is doubled then ", "fib": "b"}
 {"text": "This is easily done using calculus ", "fib": "calculus"}
-{"text": "Kepler had formulated his third law by 1619 ", "fib": "1619"}
+{"text": "For two special cases, a simple law results when you do that : (1) The force of attraction between a hollow spherical shell of uniform density and a point mass situated outside is just as if the entire mass of the shell is concentrated at the centre of the shell ", "fib": "1"}
+{"text": "Qualitatively this can be understood as follows: Gravitational forces caused by the various regions of the shell have components along the line joining the point mass to the centre as well as along a direction prependicular to this line ", "fib": "Gravitational"}
+{"text": "These forces cancel each other completely. ", "fib": "forces"}
+{"text": "A point outside the earth is obviously outside all the shells ", "fib": "earth"}
 {"text": "The total mass of all the shells combined is just the mass of the earth ", "fib": "earth"}
 {"text": "If the mass m is situated on the surface of earth, then r = RE and the gravitational force on it is, from Eq ", "fib": "="}
-{"text": "(8.10) (8.11) ", "fib": "8.10"}
-{"text": "8.6 Acceleration due to gravity below and above the surface of earth Consider a point mass m at a height h above the surface of the earth as shown in (a) ", "fib": "8.6"}
-{"text": "The radius of the earth is denoted by RE ", "fib": "RE"}
-{"text": "Since this point is outside the earth, its distance from the centre of the earth is (RE + h ) ", "fib": "+"}
+{"text": "(8.12) ", "fib": "8.12"}
+{"text": "As far as the smaller sphere of radius ( RE \u2013 d ) is concerned, the point mass is outside it and hence according to the result quoted earlier, the force due to this smaller sphere is just as if the entire mass of the smaller sphere is concentrated at the centre ", "fib": "RE"}
+{"text": "If Ms is the mass of the smaller sphere, then, Ms/ME = ( RE \u2013 d)3 / RE3 ( 8.16) Since mass of a sphere is proportional to be cube of its radius. ", "fib": ""}
+{"text": "(b) g at a depth d ", "fib": "b"}
+{"text": "In this case only the smaller sphere of radius (RE\u2013d) contributes to g ", "fib": "RE\u2013d"}
+{"text": "Thus the force on the point mass is F (d) = G Ms m / (RE \u2013 d ) 2 (8.17) Substituting for Ms from above , we get F (d) = G ME m ( RE \u2013 d ) / RE 3 (8.18) and hence the acceleration due to gravity at a depth d, g(d) = is (8.19) ", "fib": "/"}
 {"text": "Thus, as we go down below earth\u2019s surface, the acceleration due gravity decreases by a factor The remarkable thing about acceleration due to earth\u2019s gravity is that it is maximum on its surface decreasing whether you go up or down. ", "fib": "acceleration"}
-{"text": "8.7 Gravitational potential energy We had discussed earlier the notion of potential energy as being the energy stored in the body at its given position ", "fib": "8.7"}
 {"text": "If the position of the particle changes on account of forces acting on it, then the change in its potential energy is just the amount of work done on the body by the force ", "fib": "account"}
-{"text": "Of course using machines we can shoot an object with much greater speeds and with greater and greater initial speed, the object scales higher and higher heights ", "fib": "course"}
-{"text": "This is the reason that moon has no atmosphere ", "fib": ""}
-{"text": "Thereafter, the greater gravitational pull of 4M would suffice ", "fib": "4M"}
-{"text": "The mechanical energy at the surface of M is ", "fib": "M"}
-{"text": "At the neutral point N, the speed approaches zero ", "fib": "N"}
-{"text": "From the principle of conservation of mechanical energy or A point to note is that the speed of the projectile is zero at N, but is nonzero when it strikes the heavier sphere 4 M ", "fib": "4"}
-{"text": "(8.35) ", "fib": "8.35"}
-{"text": "(8.37), we get T 2 = k ( RE + h)3 (where k = 4 \u03c02 / GME) (8.38) which is Kepler\u2019s law of periods, as applied to motion of satellites around the earth ", "fib": "+"}
-{"text": "If we substitute the numerical values g \u2245 9.8 m s-2 and RE = 6400 km., we get ", "fib": "6400"}
-{"text": "Which is approximately 85 minutes. ", "fib": "85"}
-{"text": "Example 8.5 The planet Mars has two moons, phobos and delmos ", "fib": "8.5"}
-{"text": "phobos has a period 7 hours, 39 minutes and an orbital radius of 9.4 \u00d7103 km ", "fib": "39"}
-{"text": "What is the length of the martian year in days ? ", "fib": "days"}
-{"text": "\u2234 TM = (1.52)3/2 \u00d7 365 = 684 days We note that the orbits of all planets except Mercury, Mars and Pluto* are very close to being circular ", "fib": "1.52"}
-{"text": "From the derivation of Kepler\u2019s third law [see Eq ", "fib": "Eq"}
-{"text": "The moon is at a distance of 3.84 \u00d7 105 km from the earth ", "fib": "105"}
+{"text": "As we had discussed earlier, forces for which the work done is independent of the path are the conservative forces ", "fib": "conservative"}
+{"text": "The force of gravity is a conservative force and we can calculate the potential energy of a body arising out of this force, called the gravitational potential energy ", "fib": "body"}
+{"text": "Consider points close to the surface of earth, at distances from the surface much smaller than the radius of the earth ", "fib": "distances"}
+{"text": "If we consider a point at a height h1 from the surface of the earth and another point vertically above it at a height h2 from the surface, the work done in lifting the particle of mass m from the first to the second position is denoted by W12 W12 = Force \u00d7 displacement = mg (h2 \u2013 h1) (8.20) If we associate a potential energy W(h) at a point at a height h above the surface such that W(h) = mgh + Wo (8.21) (where Wo = constant) ; then it is clear that W12 = W(h2) \u2013 W(h1) (8.22) The work done in moving the particle is just the difference of potential energy between its final and initial positions.Observe that the constant Wo cancels out in Eq ", "fib": "8.20"}
+{"text": "If we now calculate the work done in lifting a particle from r = r1 to r = r2 (r2 > r1) along a vertical path, we get instead of Eq ", "fib": "="}
+{"text": "(8.20) (8.24) ", "fib": "8.20"}
+{"text": "(8.22) and (8.24) ", "fib": "8.22"}
+{"text": "This is an example of the application of the superposition principle. ", "fib": "application"}
+{"text": "Answer Consider four masses each of mass m at the corners of a square of side l; See ", "fib": ""}
+{"text": "8.8 Escape Speed If a stone is thrown by hand, we see it falls back to the earth ", "fib": "8.8"}
+{"text": "A natural query that arises in our mind is the following: \u2018can we throw an object with such high initial speeds that it does not fall back to the earth?\u2019 The principle of conservation of energy helps us to answer this question ", "fib": "conservation"}
+{"text": "By the principle of energy conservation Eqs ", "fib": "Eqs"}
+{"text": "Thus, an object can reach infinity as long as Vi is such that ", "fib": "Vi"}
+{"text": "(8.29) ", "fib": "8.29"}
+{"text": "of Eq ", "fib": "Eq"}
+{"text": "Moon is the only natural satellite of the earth with a near circular orbit with a time period of approximately 27.3 days which is also roughly equal to the rotational period of the moon about its own axis ", "fib": "27.3"}
+{"text": "Equating R.H.S of Eqs ", "fib": "Eqs"}
+{"text": "From ,the speed V for h = 0 is (8.36) ", "fib": "0"}
+{"text": "where we have used the relation g = ", "fib": "="}
+{"text": "Squaring both sides of Eq ", "fib": "Eq"}
+{"text": "For a satellite very close to the surface of earth h can be neglected in comparison to RE in Eq ", "fib": "Eq"}
+{"text": "(8.38) ", "fib": "8.38"}
+{"text": "= 5.97\u00d7 1024 kg ", "fib": "1024"}
+{"text": "The moon is a satellite of the Earth ", "fib": "Earth"}
+{"text": "Example 8.7 Express the constant k of Eq ", "fib": "8.7"}
+{"text": "(8.38) and the given value of k, the time period of the moon is T2 = (1.33 \u00d7 10-14)(3.84 \u00d7 105)3 T = 27.3 d Note that Eq ", "fib": "1.33"}
+{"text": "(8.38) also holds for elliptical orbits if we replace (RE+h) by the semi-major axis of the ellipse ", "fib": "8.38"}
 {"text": "(8.40) ", "fib": "8.40"}
-{"text": "However, in magnitude the K.E ", "fib": "K.E"}
-{"text": "How much energy is required to transfer it to a circular orbit of radius 4RE ? What are the changes in the kinetic and potential energies ? ", "fib": "4RE"}
-{"text": "8.11 Geostationary and Polar Satellites An interesting phenomenon arises if in we arrange the value of (RE+ h) such that T in Eq ", "fib": "8.11"}
+{"text": "Considering gravitational potential energy at infinity to be zero, the potential energy at distance (RE+h) from the centre of the earth is (8.41) ", "fib": "8.41"}
+{"text": "The K.E is positive whereas the P.E is negative ", "fib": "K.E"}
+{"text": "When the orbit of a satellite becomes elliptic, both the K.E ", "fib": "K.E"}
+{"text": "Satellites are always at finite distance from the earth and hence their energies cannot be positive or zero ", "fib": "Satellites"}
 {"text": "(8.37) becomes equal to 24 hours ", "fib": "24"}
+{"text": "and for T = 24 hours, h works out to be 35800 km ", "fib": "24"}
+{"text": "Satellites in a circular orbits around the earth in the equatorial plane with T = 24 hours are called Geostationery Satellites ", "fib": "24"}
+{"text": "Clearly, since the earth rotates with the same period, the satellite would appear fixed from any point on earth ", "fib": "earth"}
+{"text": "It takes very powerful rockets to throw up a satellite to such large heights above the earth but this has been done in view of the several benefits of many practical applications. ", "fib": "earth"}
+{"text": "India\u2019s Leap into Space India started its space programme in 1962 when Indian National Committee for Space Research was set up by the Government of India which was superseded by the Indian Space Research Organisation (ISRO) in 1969 ", "fib": ""}
+{"text": "ISRO identified the role and importance of space technology in nation\u2019s development and bringing space to the service of the common man ", "fib": "ISRO"}
 {"text": "India launched its first low orbit satellite Aryabhata in 1975, for which the launch vehicle was provided by the erstwhile Soviet Union ", "fib": "1975"}
-{"text": "Various research centers and autonomous institutions for remote sensing, astronomy and astrophysics, atmospheric sciences and space research are functioning under the aegis of the Department of Space, Government of India ", "fib": "Department"}
-{"text": "A Geostationery satellite, appearing fixed above the broadcasting station can however receive these signals and broadcast them back to a wide area on earth ", "fib": "Geostationery"}
+{"text": "ISRO started employing its indigenous launching vehicle in 1979 by sending Rohini series of satellites into space from its main launch site at Satish Dhawan Space Center, Sriharikota, Andhra Pradesh ", "fib": "1979"}
+{"text": "The tremendous progress in India\u2019s space programme has made ISRO one of the six largest space agencies in the world ", "fib": "ISRO"}
+{"text": "In order to achieve complete self-reliance in these applications, cost effective and reliable Polar Satellite Launch Vehicle (PSLV) was developed in early 1990s ", "fib": "1990s"}
+{"text": "PSLV has thus become a favoured carrier for satellites of various countries, promoting unprecedented international collaboration ", "fib": "PSLV"}
+{"text": "Another class of satellites are called the Polar satellites ", "fib": "Polar"}
 {"text": "These are low altitude (h \u2248 500 to 800 km) satellites, but they go around the poles of the earth in a north-south direction whereas the earth rotates around its axis in an east-west direction ", "fib": "500"}
-{"text": "Information gathered from such satellites is extremely useful for remote sensing, meterology as well as for environmental studies of the earth. ", "fib": "Information"}
-{"text": "This is because the spring is pulled down a little by the gravitational pull of the object and in turn the spring exerts a force on the object vertically upwards ", "fib": "force"}
+{"text": "8.12 Weightlessness Weight of an object is the force with which the earth attracts it ", "fib": "8.12"}
+{"text": "The same principle holds good when we measure the weight of an object by a spring balance hung from a fixed point e.g ", "fib": "balance"}
+{"text": "This is exactly what the spring exerts on the object ", "fib": "exerts"}
 {"text": "Now, imagine that the top end of the balance is no longer held fixed to the top ceiling of the room ", "fib": "balance"}
-{"text": "Thus, when an object is in free fall, it is weightless and this phenomenon is usually called the phenomenon of weightlessness ", "fib": "free"}
-{"text": "The resultant force FR is then found by vector addition FR = F1 + F2 + \u2026\u2026+ Fn = where the symbol \u2018\u03a3\u2019 stands for summation ", "fib": "+"}
-{"text": "Kepler\u2019s laws of planetary motion state that (a) All planets move in elliptical orbits with the Sun at one of the focal points (b) The radius vector drawn from the Sun to a planet sweeps out equal areas in equal time intervals ", "fib": "Kepler"}
+{"text": "The spring is not stretched and does not exert any upward force on the object which is moving down with acceleration g due to gravity ", "fib": "acceleration"}
+{"text": "The reading recorded in the spring balance is zero since the spring is not stretched at all ", "fib": "balance"}
+{"text": "This is just as if we were falling towards the earth from a height ", "fib": "earth"}
+{"text": "Summary 1. Newton\u2019s law of universal gravitation states that the gravitational force of attraction between any two particles of masses m1 and m2 separated by a distance r has the magnitude where G is the universal gravitational constant, which has the value 6.672 \u00d710\u201311 N m2 kg\u20132 ", "fib": "1"}
+{"text": "Let F1, F2, \u2026.Fn be the individual forces due to M1, M2, \u2026.Mn, each given by the law of gravitation ", "fib": "F1"}
+{"text": "From the principle of superposition each force acts independently and uninfluenced by the other bodies ", "fib": "force"}
+{"text": "Most planets have nearly circular orbits about the Sun ", "fib": "Most"}
 {"text": "For elliptical orbits, the above equation is valid if R is replaced by the semi-major axis, a ", "fib": "R"}
-{"text": "4. The acceleration due to gravity ", "fib": "4"}
-{"text": "(a) at a height h above the earth\u2019s surface for h << RE (b) at depth d below the earth\u2019s surface is 5. The gravitational force is a conservative force, and therefore a potential energy function can be defined ", "fib": "5"}
-{"text": "The gravitational potential energy associated with two particles separated by a distance r is given by where V is taken to be zero at r \u2192 \u221e ", "fib": "V"}
-{"text": "The total potential energy for a system of particles is the sum of energies for all pairs of particles, with each pair represented by a term of the form given by above equation ", "fib": "energies"}
+{"text": "The total energy is negative for any bound system, that is, one in which the orbit is closed, such as an elliptical orbit ", "fib": "bound"}
+{"text": "The kinetic and potential energies are The escape speed from the surface of the earth is = and has a value of 11.2 km s\u20131 ", "fib": "11.2"}
+{"text": "If a particle is outside a uniform spherical shell or solid sphere with a spherically symmetric internal mass distribution, the sphere attracts the particle as though the mass of the sphere or shell were concentrated at the centre of the sphere ", "fib": ""}
+{"text": "10. If a particle is inside a uniform spherical shell, the gravitational force on the particle is zero ", "fib": "10"}
+{"text": "If a particle is inside a homogeneous solid sphere, the force on the particle acts toward the centre of the sphere ", "fib": ""}
 {"text": ". A geostationary (geosynchronous communication) satellite moves in a circular orbit in the equatorial plane at a approximate distance of 4.22 \u00d7 104 km from the earth\u2019s centre ", "fib": "104"}
+{"text": "Points to Ponder 1. In considering motion of an object under the gravitational influence of another object the following quantities are conserved: (a) Angular momentum (b) Total mechanical energy Linear momentum is not conserved 2. Angular momentum conservation leads to Kepler\u2019s second law ", "fib": "1"}
+{"text": "However, it is not special to the inverse square law of gravitation ", "fib": "gravitation"}
+{"text": "It holds for any central force ", "fib": "central"}
+{"text": "3. In Kepler\u2019s third law (see Eq ", "fib": "Eq"}
 {"text": "(8.1) and T2 = KS R3 ", "fib": "8.1"}
-{"text": "Exercises 8.1 Answer the following : (a) You can shield a charge from electrical forces by putting it inside a hollow conductor ", "fib": ""}
+{"text": "The constant KS is the same for all planets in circular orbits ", "fib": "circular"}
+{"text": "This applies to satellites orbiting the Earth [(Eq ", "fib": "Earth"}
+{"text": "(8.38)] ", "fib": "8.38"}
+{"text": "4. An astronaut experiences weightlessness in a space satellite ", "fib": "4"}
+{"text": "This is not because the gravitational force is small at that location in space ", "fib": "gravitational"}
+{"text": "It is because both the astronaut and the satellite are in \u201cfree fall\u201d towards the Earth ", "fib": "Earth"}
+{"text": "5. The gravitational potential energy associated with two particles separated by a distance r is given by The constant can be given any value ", "fib": "5"}
+{"text": "With this choice This choice implies that V \u2192 0 as r \u2192 \u221e ", "fib": "0"}
+{"text": "Note that the gravitational force is not altered by the choice of this constant ", "fib": "Note"}
+{"text": "Relative to infinity (i.e ", "fib": "i.e"}
+{"text": "if we presume that the potential energy of the object at infinity is zero), the gravitational potential energy of an object is negative ", "fib": "gravitational"}
+{"text": "The total energy of a satellite is negative ", "fib": "satellite"}
+{"text": "8. Although the gravitational force between two particles is central, the force between two finite rigid bodies is not necessarily along the line joining their centre of mass ", "fib": "8"}
+{"text": "The gravitational force on a particle inside a spherical shell is zero ", "fib": "gravitational"}
+{"text": "Gravitational shielding is not possible. ", "fib": ""}
 {"text": "Why ? 8.2 Choose the correct alternative : (a) Acceleration due to gravity increases/decreases with increasing altitude ", "fib": ""}
-{"text": "8.5 Let us assume that our galaxy consists of 2.5 \u00d7 1011 stars each of one solar mass ", "fib": ""}
+{"text": "(b) Acceleration due to gravity increases/decreases with increasing depth (assume the earth to be a sphere of uniform density) ", "fib": ""}
+{"text": "(c) Acceleration due to gravity is independent of mass of the earth/mass of the body ", "fib": "Acceleration"}
+{"text": "(d) The formula \u2013G Mm(1/r2 \u2013 1/r1) is more/less accurate than the formulamg(r2 \u2013 r1) for the difference of potential energy between two points r2 and r1 distance away from the centre of the earth ", "fib": "1/r1"}
+{"text": "8.7 Does the escape speed of a body from the earth depend on (a) the mass of the body, (b) the location from where it is projected, (c) the direction of projection, (d) the height of the location from where the body is launched? 8 A comet orbits the sun in a highly elliptical orbit ", "fib": ""}
 {"text": "8.9 Which of the following symptoms is likely to afflict an astronaut in space (a) swollen feet, (b) swollen face, (c) headache, (d) orientational problem ", "fib": ""}
+{"text": "8.10 In the following two exercises, choose the correct answer from among the given ones: The gravitational intensity at the centre of a hemispherical shell of uniform mass density has the direction indicated by the arrow (see Fig 8.12) a, b,c, (iv) 0. ", "fib": "0"}
+{"text": "APPENDIX 8.1 : LIST OF INDIAN SATELLITES ", "fib": "8.1"}
 {"text": "India has so far also launched 239 foreign satellites of 28 countries from Satish Dhawan Space Center, Sriharikota, Andhra Pradesh: May 26, 1999 (02); Oct ", "fib": "02"}
-{"text": "15, 2017 (101) and thus setting a world record; June 23, 2017 (29) ", "fib": "101"}
+{"text": "23, 2007 (01); Jan ", "fib": "01"}
+{"text": "20, 2011 (01) Sep ", "fib": "01"}
+{"text": "09, 2012 (02); Feb ", "fib": "02"}
+{"text": "25, 2013 (06); June 30, 2014 (05); July 10, 2015 (05); Sep ", "fib": "05"}
+{"text": "26, 2016 (05); Feb ", "fib": "05"}
+{"text": "Jan 12, 2018 (28); Sep ", "fib": "12"}
 {"text": "Table of Contents ", "fib": "Contents"}
+{"text": "Chapter Eight ", "fib": "Chapter"}
+{"text": "Gravitation ", "fib": "Gravitation"}
+{"text": "8.1 Introduction ", "fib": "8.1"}
+{"text": "8.2 Kepler\u2019s laws ", "fib": "8.2"}
+{"text": "8.4 The Gravitational Constant ", "fib": "8.4"}
+{"text": "8.5 Acceleration due to gravity of the earth ", "fib": "8.5"}
 {"text": "8.6 Acceleration due to gravity below and above the surface of earth ", "fib": "8.6"}
+{"text": "8.7 Gravitational potential energy ", "fib": "8.7"}
+{"text": "8.8 Escape Speed ", "fib": "8.8"}
 {"text": "8.9 Earth Satellites ", "fib": "8.9"}
+{"text": "8.10 Energy of an orbiting Satellite ", "fib": "8.10"}
 {"text": "8.11 Geostationary and Polar Satellites ", "fib": "8.11"}
-{"text": "For example, in Amoeba, a single cell carries out movement, intake of food, gaseous exchange and excretion ", "fib": "Amoeba"}
-{"text": "Each specialised function is taken up by a different group of cells ", "fib": "cells"}
-{"text": "In plants, vascular tissues conduct food and water from one part of the plant to other parts ", "fib": "food"}
-{"text": "6.2 Plant Tissues ", "fib": "6.2"}
+{"text": "8.12 Weightlessness ", "fib": "8.12"}
+{"text": "Summary ", "fib": "Summary"}
+{"text": "Cover ", "fib": "Cover"}
+{"text": "From the last chapter, we recall that all living organisms are made of cells ", "fib": "cells"}
+{"text": "In unicellular organisms, a single cell performs all basic functions ", "fib": "basic"}
+{"text": "Most of these cells are specialised to carry out specific functions ", "fib": "cells"}
+{"text": "This means that a particular function is carried out by a cluster of cells at a definite place in the body ", "fib": "body"}
+{"text": "Tissues A group of cells that are similar in structure and/or work together to achieve a particular function forms a tissue ", "fib": "and/or"}
+{"text": "6.1 Are Plants and Animals Made of Same Types of Tissues? Let us compare their structure and functions ", "fib": ""}
+{"text": "Do plants and animals have the same structure? Do they both perform similar functions? There are noticeable differences between the two ", "fib": "animals"}
+{"text": "These tissues are localised in certain regions ", "fib": "certain"}
+{"text": "Based on the dividing capacity of the tissues, various plant tissues can be classified as growing or meristematic tissue and permanent tissue ", "fib": "capacity"}
+{"text": "Cell growth in animals is more uniform ", "fib": "Cell"}
+{"text": "This fundamental difference reflects the different modes of life pursued by these two major groups of organisms, particularly in their different feeding methods ", "fib": "different"}
 {"text": "Jar 1 Jar 2 : Growth of roots in onion bulbs ", "fib": "1"}
-{"text": "The girth of the stem or root increases due to lateral meristem (cambium) ", "fib": "cambium"}
-{"text": "Activity 6.3 \u2022 Take a freshly plucked leaf of Rhoeo ", "fib": "6.3"}
+{"text": "\u2022 Now, take two onion bulbs and place one on each jar, as shown in ", "fib": "bulbs"}
+{"text": "\u2022 Observe the growth of roots in both the bulbs for a few days ", "fib": "Observe"}
+{"text": "After this, observe the growth of roots in both the jars and measure their lengths each day for five more days and record the observations in tables, like the table below: Length Day 1 Day 2 Day 3 Day 4 Day 5 Jar 1 Jar 2 ", "fib": "1"}
+{"text": "The growth of plants occurs only in certain specific regions ", "fib": "certain"}
+{"text": "This is because the dividing tissue, also known as meristematic tissue, is located only at these points ", "fib": ""}
+{"text": "Depending on the region where they are present, meristematic tissues are classified as apical, lateral and intercalary ", "fib": "meristematic"}
+{"text": "New cells produced by meristem are initially like those of meristem itself, but as they grow and mature, their characteristics slowly change and they become differentiated as components of other tissues. ", "fib": "New"}
+{"text": "6.2.2 Permanent tissue What happens to the cells formed by meristematic tissue? They take up a specific role and lose the ability to divide ", "fib": "6.2.2"}
+{"text": "This process of taking up a permanent shape, size, and a function is called differentiation ", "fib": "differentiation"}
+{"text": "Place one neatly cut section on a slide, and put a drop of glycerine ", "fib": "Place"}
+{"text": "We can even try cutting sections of root and stem of different plants. ", "fib": "different"}
+{"text": "6.2.2 Simple permanent tissue A few layers of cells beneath the epidermis are generally simple permanent tissue ", "fib": ""}
+{"text": "It consists of relatively unspecialised cells with thin cell walls ", "fib": "thin"}
+{"text": "They are living cells ", "fib": "cells"}
+{"text": "They are usually loosely arranged, thus large spaces between cells (intercellular spaces) are found in this tissue ", "fib": "cells"}
+{"text": "This tissue generally stores food ", "fib": "food"}
+{"text": "In some situations, it contains chlorophyll and performs photosynthesis, and then it is called chlorenchyma ", "fib": "chlorenchyma"}
+{"text": "Such a parenchyma type is called aerenchyma ", "fib": "aerenchyma"}
+{"text": "It allows bending of various parts of a plant like tendrils and stems of climbers without breaking ", "fib": "bending"}
+{"text": "It also provides mechanical support ", "fib": "mechanical"}
+{"text": "We can find this tissue in leaf stalks below the epidermis ", "fib": "epidermis"}
+{"text": "The cells of this tissue are living, elongated and irregularly thickened at the corners ", "fib": "cells"}
+{"text": "There is very little intercellular space . ", "fib": "little"}
 {"text": "\u2022 Stretch and break it by applying pressure ", "fib": "pressure"}
 {"text": "\u2022 While breaking it, keep it stretched gently so that some peel or skin projects out from the cut ", "fib": "cut"}
-{"text": "(a) (b) : Guard cells and epidermal cells: (a) lateral view, (b) surface view ", "fib": "Guard"}
-{"text": "These pores are called stomata ", "fib": "pores"}
-{"text": "Transpiration (loss of water in the form ofwater vapour) also takes place through stomata ", "fib": "Transpiration"}
+{"text": "\u2022 Remove this peel and put it in a petri dish filled with water ", "fib": ""}
+{"text": "\u2022 Add a few drops of safranin ", "fib": ""}
+{"text": "\u2022 Wait for a couple of minutes and then transfer it onto a slide ", "fib": "couple"}
+{"text": "Gently place a cover slip over it ", "fib": "cover"}
+{"text": "\u2022 Observe under microscope. ", "fib": "microscope"}
+{"text": "The epidermis is usually made of a single layer of cells ", "fib": "cells"}
+{"text": "The entire surface of a plant has an outer covering epidermis ", "fib": "entire"}
+{"text": "They are necessary for exchanging gases with the atmosphere ", "fib": ""}
 {"text": "Find out the role of transpiration in plants ", "fib": "plants"}
-{"text": "Epidermal cells of the roots, whose function is water absorption, commonly bear long hair-like parts that greatly increase the total absorptive surface area ", "fib": "Epidermal"}
-{"text": "This allows them to transport water and minerals vertically ", "fib": "minerals"}
-{"text": "The parenchyma stores food ", "fib": "food"}
-{"text": "Sieve tubes are tubular cells with perforated walls ", "fib": "Sieve"}
-{"text": "Phloem transports food from leaves to other parts of the plant ", "fib": "Phloem"}
-{"text": "1. Name types of simple tissues ", "fib": "1"}
-{"text": "When we breathe we can actually feel the movement of our chest ", "fib": "chest"}
-{"text": "They have only a small amount of cementing material between them and almost no intercellular spaces ", "fib": "intercellular"}
-{"text": "Obviously, anything entering or leaving the body must cross at least one layer of epithelium ", "fib": "anything"}
-{"text": "Different epithelia show differing structures that correlate with their unique functions ", "fib": "Different"}
+{"text": "Can we think of a reason for this? Is the outer layer of a branch of a tree different from the outer layer of a young stem? As plants grow older, the outer protective tissue undergoes certain changes ", "fib": "branch"}
+{"text": "A strip of secondary meristem located in the cortex forms layers of cells which constitute the cork ", "fib": "cells"}
+{"text": "Cells of cork are dead and compactly arranged without intercellular spaces ", "fib": "Cells"}
+{"text": "Such tissues are called simple permanent tissue ", "fib": "Such"}
+{"text": "Complex tissues are made of more than one type of cells ", "fib": "Complex"}
+{"text": "All these cells coordinate to perform a common function ", "fib": "cells"}
+{"text": "Xylem and phloem are examples of such complex tissues ", "fib": "Xylem"}
+{"text": "They are both conducting tissues and constitute a vascular bundle ", "fib": "tissues"}
+{"text": "Vascular tissue is a distinctive feature of the complex plants, one that has made possible their survival in the terrestrial environment ", "fib": "Vascular"}
+{"text": "In showing a section of stem, can you see different types of cells in the vascular bundle? Xylem consists of tracheids, vessels, xylem parenchyma and xylem fibres ", "fib": "Xylem"}
+{"text": "Questions ", "fib": "Questions"}
+{"text": "Why would cells need oxygen? The functions of mitochondria we studied earlier provide a clue to this question ", "fib": "cells"}
+{"text": "For example, it carries oxygen and food to all cells ", "fib": "cells"}
+{"text": "6.3.1 Epithelial tissue The covering or protective tissues in the animal body are epithelial tissues ", "fib": ""}
+{"text": "Epithelium covers most organs and cavities within the body ", "fib": "Epithelium"}
+{"text": "As a result, the permeability of the cells of various epithelia play an important role in regulating the exchange of materials between the body and the external environment and also between different parts of the body ", "fib": "body"}
+{"text": "The oesophagus and the lining of the mouth are also covered with squamous epithelium ", "fib": ""}
+{"text": "The skin, which protects the body, is also made of squamous epithelium ", "fib": "body"}
+{"text": "This columnar (meaning \u2018pillar-like\u2019) epithelium facilitates movement across the epithelial barrier ", "fib": "columnar"}
+{"text": "This is glandular epithelium. ", "fib": "glandular"}
+{"text": "It forms the framework that supports the body ", "fib": "body"}
+{"text": "Bone cells are embedded in a hard matrix that is composed of calcium and phosphorus compounds ", "fib": "Bone"}
+{"text": "Two bones can be connected to each other by another type of connective tissue called the ligament ", "fib": "Two"}
+{"text": "This tissue is very elastic ", "fib": "tissue"}
+{"text": "It has considerable strength ", "fib": "considerable"}
+{"text": "Tendons connect muscles to bones and are another type of connective tissue ", "fib": "Tendons"}
+{"text": "Tendons are fibrous tissue with great strength but limited flexibility ", "fib": "Tendons"}
+{"text": "Another type of connective tissue, cartilage, has widely spaced cells ", "fib": "cartilage"}
+{"text": "The solid matrix is composed of proteins and sugars ", "fib": "proteins"}
+{"text": "It fills the space inside the organs, supports internal organs and helps in repair of tissues ", "fib": "internal"}
+{"text": "Where are fats stored in our body? Fat-storing adipose tissue is found below the skin and between internal organs ", "fib": "adipose"}
+{"text": "The cells of this tissue are filled with fat globules ", "fib": "cells"}
+{"text": "Storage of fats also lets it act as an insulator. ", "fib": "Storage"}
+{"text": "The cells of this tissue are filled with fat globules ", "fib": "cells"}
+{"text": "We can move some muscles by conscious will ", "fib": "muscles"}
+{"text": "Such muscles are called voluntary muscles ", "fib": "Such"}
+{"text": "These muscles are also called skeletal muscles as they are mostly attached to bones and help in body movement ", "fib": "body"}
+{"text": "As a result, they are also called striated muscles ", "fib": "muscles"}
+{"text": "The cells of this tissue are long, cylindrical, unbranched and multinucleate (having many nuclei) ", "fib": "cells"}
+{"text": "The movement of food in the alimentary canal or the contraction and relaxation of blood vessels are involuntary movements ", "fib": "alimentary"}
+{"text": "We cannot really start them or stop them simply by wanting to do so! Smooth muscles or involuntary muscles control such movements ", "fib": "Smooth"}
+{"text": "They are also found in the iris of the eye, in ureters and in the bronchi of the lungs ", "fib": "bronchi"}
+{"text": "The cells are long with pointed ends (spindle-shaped) and uninucleate (having a single nucleus) ", "fib": "cells"}
 {"text": "We can move some muscles by conscious will ", "fib": "muscles"}
 {"text": "Muscles present in our limbs move when we want them to, and stop when we so decide ", "fib": "Muscles"}
 {"text": "Such muscles are called voluntary muscles ", "fib": "Such"}
-{"text": "These muscles are also called skeletal muscles as they are mostly attached to bones and help in body movement ", "fib": "body"}
-{"text": "Under the microscope, these muscles show alternate light and dark bands or striations when stained appropriately ", "fib": "alternate"}
 {"text": "As a result, they are also called striated muscles ", "fib": "muscles"}
-{"text": "The cells of this tissue are long, cylindrical, unbranched and multinucleate (having many nuclei) ", "fib": "cells"}
 {"text": "We cannot really start them or stop them simply by wanting to do so! Smooth muscles or involuntary muscles control such movements ", "fib": "Smooth"}
-{"text": "They are also found in the iris of the eye, in ureters and in the bronchi of the lungs ", "fib": "bronchi"}
 {"text": "The cells are long with pointed ends (spindle-shaped) and uninucleate (having a single nucleus) ", "fib": "cells"}
-{"text": "They are also called unstriated muscles \u2013 why would they be called that? Muscular tissue consists of elongated cells, also called muscle fibres ", "fib": "Muscular"}
-{"text": "This tissue is responsible for movement in our body. Muscles contain special proteins called contractile proteins, which contract and relax to cause movement ", "fib": "Muscles"}
-{"text": "We can move some muscles by conscious will ", "fib": "muscles"}
-{"text": "Such muscles are called voluntary muscles ", "fib": "Such"}
-{"text": "Under the microscope, these muscles show alternate light and dark bands or striations when stained appropriately ", "fib": "alternate"}
-{"text": "As a result, they are also called striated muscles ", "fib": "muscles"}
-{"text": "The cells of this tissue are long, cylindrical, unbranched and multinucleate (having many nuclei). The movement of food in the alimentary canal or the contraction and relaxation of blood vessels are involuntary movements ", "fib": "alimentary"}
-{"text": "We cannot really start them or stop them simply by wanting to do so! Smooth muscles or involuntary muscles control such movements ", "fib": "Smooth"}
-{"text": "They are also found in the iris of the eye, in ureters and in the bronchi of the lungs ", "fib": "bronchi"}
-{"text": "The cells are long with pointed ends (spindle-shaped) and uninucleate (having a single nucleus) ", "fib": "cells"}
-{"text": "They are also called unstriated muscles \u2013 why would they be called that? The muscles of the heart show rhythmic contraction and relaxation throughout life ", "fib": "heart"}
 {"text": "These involuntary muscles are called cardiac muscles ", "fib": "cardiac"}
-{"text": "Heart muscle cells are cylindrical, branched and uninucleate ", "fib": "Heart"}
-{"text": "Activity 6.5 Compare the structures of different types of muscular tissues ", "fib": "6.5"}
 {"text": "Note down their shape, number of nuclei and position of nuclei within the cell in the Table 6.1. ", "fib": "6.1"}
-{"text": "However, cells of the nervous tissue are highly specialised for being stimulated and then transmitting the stimulus very rapidly from one place to another within the body ", "fib": "body"}
-{"text": "The brain, spinal cord and nerves are all composed of the nervous tissue ", "fib": "brain"}
-{"text": "Questions 1. Name the tissue responsible for movement in our body ", "fib": "1"}
-{"text": "2. What does a neuron look like? 3. Give three features of cardiac muscles ", "fib": "2"}
-{"text": "\u2022 Permanent tissues are derived from meristematic tissue once they lose the ability to divide ", "fib": "ability"}
-{"text": "They are classified as simple and complex tissues ", "fib": "complex"}
-{"text": "\u2022 Parenchyma, collenchyma and sclerenchyma are three types of simple tissues ", "fib": "Parenchyma"}
-{"text": "\u2022 Depending on shape and function, epithelial tissue is classified as squamous, cuboidal, columnar, ciliated and glandular ", "fib": "columnar"}
-{"text": "\u2022 The different types of connective tissues in our body include areolar tissue, adipose tissue, bone, tendon, ligament, cartilage and blood ", "fib": "adipose"}
-{"text": "\u2022 Nervous tissue is made of neurons that receive and conduct impulses. ", "fib": "Nervous"}
+{"text": "The cells of this tissue are called nerve cells or neurons ", "fib": "cells"}
+{"text": "4. What are the functions of areolar tissue? ", "fib": "4"}
+{"text": "\u2022 Plant tissues are of two main types \u2013 meristematic and permanent ", "fib": "Plant"}
+{"text": "Xylem and phloem are types of complex tissues ", "fib": "Xylem"}
+{"text": "\u2022 Striated, unstriated and cardiac are three types of muscle tissues ", "fib": ""}
+{"text": "Exercises 1. Define the term \u201ctissue\u201d ", "fib": "1"}
+{"text": "2. How many types of elements together make up the xylem tissue? Name them ", "fib": "2"}
 {"text": "3. How are simple tissues different from complex tissues in plants? 4. Differentiate between parenchyma, collenchyma and sclerenchyma on the basis of their cell wall ", "fib": "4"}
 {"text": "5. What are the functions of the stomata? 6. Diagrammatically show the difference between the three types of muscle fibres ", "fib": ""}
-{"text": "10. Name the following ", "fib": ""}
 {"text": "(a) Tissue that forms the inner lining of our mouth ", "fib": "Tissue"}
-{"text": "(b) Tissue that connects muscle to bone in humans ", "fib": "Tissue"}
-{"text": "(c) Tissue that transports food in plants ", "fib": "Tissue"}
-{"text": "(d) Tissue that stores fat in our body ", "fib": "Tissue"}
-{"text": "12. Name the regions in which parenchyma tissue is present ", "fib": "12"}
-{"text": "13. What is the role of epidermis in plants? ", "fib": "13"}
+{"text": "(e) Connective tissue with a fluid matrix ", "fib": "Connective"}
+{"text": "(f) Tissue present in the brain ", "fib": "Tissue"}
+{"text": "11. Identify the type of tissue in the following: skin, bark of tree, bone, lining of kidney tubule, vascular bundle ", "fib": ""}
 {"text": "14. How does the cork act as a protective tissue? 15. Complete the following chart: ", "fib": "14"}
-{"text": "Chapter 6 ", "fib": "6"}
-{"text": "6.2 Plant Tissues ", "fib": "6.2"}
-{"text": "6.3 Animal Tissues ", "fib": "6.3"}
-{"text": "6.3.2 Connective tissue ", "fib": "6.3.2"}
-{"text": "6.3.4 Nervous tissue ", "fib": "6.3.4"}
+{"text": "Table of Contents ", "fib": "Contents"}
+{"text": "Tissues ", "fib": "Tissues"}
+{"text": "6.2.2 Permanent tissue ", "fib": "6.2.2"}
+{"text": "6.3.1 Epithelial tissue ", "fib": "6.3.1"}
+{"text": "Landmarks ", "fib": "Landmarks"}
 {"text": "Cover ", "fib": "Cover"}
 {"text": "Chapter 6Tissues", "fib": "6Tissues"}
