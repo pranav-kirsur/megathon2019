@@ -10,11 +10,15 @@ def SimToTitle(title,sentences):
         titleArr[i] = ps.stem(titleArr[i])
 #    print(titleArr)
     for sentence in sentences :
-        sentenceArr=sentence.split()
-        for i in range (0,len(sentenceArr)) :
-            sentenceArr[i] = ps.stem(sentenceArr[i])
-        common = set(titleArr).intersection(set(sentenceArr))
-        ansArr.append(len(common)/len(sentenceArr))
+        if len(sentence) == 0:
+            ansArr.append(0)
+            pass
+        else:
+            sentenceArr=sentence.split()
+            for i in range (0,len(sentenceArr)) :
+                sentenceArr[i] = ps.stem(sentenceArr[i])
+            common = set(titleArr).intersection(set(sentenceArr))
+            ansArr.append(len(common)/len(sentenceArr))
     return (ansArr)
 
 """

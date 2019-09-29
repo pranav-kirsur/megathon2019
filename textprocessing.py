@@ -61,7 +61,10 @@ def getTextDict():
                     j = subs(j, '\t', " ")
                     j = subs(j, '\s{1,}', " ")
                     j = j.strip()
-                    final_para['text'].append(j)
+                    if len(j) == 0:
+                        pass
+                    else:
+                        final_para['text'].append(j)
             para_list.append(final_para)
 
     return para_list
