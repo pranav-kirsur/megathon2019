@@ -104,9 +104,21 @@ def _generate_summary(sentences, sentenceValue, threshold):
 
 
 
-def getSimtoSum(i, paragraph):
+paragraph="""A group of cells that are similar in structure and/or work together to achieve a particular function forms a tissue.
+6.1	Are Plants and Animals Made of Same Types of Tissues?
+Let us compare their structure and functions. Do plants and animals have the same structure? Do they both perform similar functions?
+There are noticeable differences between the two. Plants are stationary or fixed – they don’t move. Since they have to be upright, they have a large quantity of supportive tissue. The supportive tissue generally has dead cells.
+Animals on the other hand move around in search of food, mates and shelter. They consume more energy as compared to plants. Most of the tissues they contain are living.
+Another difference between animals and plants is in the pattern of growth. The growth in plants is limited to certain regions, while this is not so in animals. There are some tissues in plants that divide throughout their life. These tissues are localised in certain regions. Based on the dividing capacity of the tissues, various plant tissues can be classified as growing or meristematic tissue and permanent tissue. Cell growth in animals is more uniform. So, there is no such demarcation of dividing and non-dividing regions in animals.
+The structural organisation of organs and organ systems is far more specialised and localised in complex animals than even in very complex plants. This fundamental difference reflects the different modes of life pursued by these two major groups of organisms, particularly in their different feeding methods. Also, they are differently adapted for a sedentary existence on one hand (plants) and active locomotion on the other (animals), contributing to this difference in organ system design.
+It is with reference to these complex animal and plant bodies that we will now talk about the concept of tissues in some detail.
+"""
+
+
+def getSimtoSum(paragraph):
     l=_create_frequency_table(paragraph)
-    # i = sent_tokenize(paragraph)
+    i=sent_tokenize(paragraph)
+    print(type(i))
     scoredict = _score_sentences(i,l)
     threshold = _find_average_score(scoredict)
     summary = _generate_summary(i, scoredict, 1.5 * threshold)
@@ -129,9 +141,15 @@ def getSimtoSum(i, paragraph):
     #    print (lent)
         finallist.append(scorearr[i]/lent)
 
+<<<<<<< HEAD
 
 
     return finallist
 
 
 print(getSimtoSum(['Hi how are', '\n', '', 'you'], 'Hi how are \n you' ))
+=======
+    return (finallist)
+
+print(getSimtoSum(paragraph))
+>>>>>>> bhavyajeet
