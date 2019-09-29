@@ -17,7 +17,7 @@
 
 ## Sentence Selection 
 1. Feature Extraction
-    - Sentence Similarity - Ahish
+    - Sentence Similarity - Ahish --> DONE
     - Common words to the title - Bhavyajeet --> DONE
     - Similar to summary - Bhavyajeet 
     - Superlative - Pranav --> DONE
@@ -26,8 +26,8 @@
     - Certain Keyword (later)
     - Sentence Position in Para - Already provided by preprocessing
     - Length of sentence - Already provided by preprocessing
-    - Number of Nouns / Length - Bhavyajeet
-    - Number of Pronouns / Length - Bhavyajeet
+    - Number of Nouns / Length - Pranav --> DONE
+    - Number of Pronouns / Length - Pranav --> DONE
     - Discourse Connective - Jai
 2. Neural Network Design - Ahish / Jai
 
