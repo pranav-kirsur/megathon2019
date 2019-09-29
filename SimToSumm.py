@@ -35,15 +35,17 @@ def _score_sentences(sentences, freqTable) -> dict:
     sentenceValue = dict()
 
     for sentence in sentences:
+        # print(sentence)
+        sentenceValue[sentence] = 0
         word_count_in_sentence = (len(word_tokenize(sentence)))
+        # print(freq)
         for wordValue in freqTable:
-            if wordValue in sentence.lower():
-                if sentence[0:len(sentence)] in sentenceValue:
-                    sentenceValue[sentence[0:len(sentence)]] += freqTable[wordValue]
-                else:
-                    sentenceValue[sentence[0:len(sentence)]] = freqTable[wordValue]
+            if wordValue.lower() in sentence.lower():
+                sentenceValue[sentence] += freqTable[wordValue]
+            else:
+                pass
 
-        sentenceValue[sentence[0:len(sentence)]] = sentenceValue[sentence[0:len(sentence)]] // word_count_in_sentence
+        # sentenceValue[sentence[0:len(sentence)]] = sentenceValue[sentence[0:len(sentence)]] // word_count_in_sentence
 
     return sentenceValue
 
@@ -86,7 +88,10 @@ def _find_average_score(sentenceValue) -> int:
         sumValues += sentenceValue[entry]
 
     # Average value of a sentence from original text
-    average = int(sumValues / len(sentenceValue))
+    if len(sentenceValue) != 0:
+        average = int(sumValues / len(sentenceValue))
+    else:
+        average = 0
 
     return average
 
@@ -104,12 +109,12 @@ def _generate_summary(sentences, sentenceValue, threshold):
 
 
 
-def getSimtoSum(i, paragraph):
+def getSimtoSum(p, paragraph):
     l=_create_frequency_table(paragraph)
     # i = sent_tokenize(paragraph)
-    scoredict = _score_sentences(i,l)
+    scoredict = _score_sentences(p,l)
     threshold = _find_average_score(scoredict)
-    summary = _generate_summary(i, scoredict, 1.5 * threshold)
+    summary = _generate_summary(p, scoredict, 1.5 * threshold)
     #print(scoredict.values()/len(scoredict.keys().split()))
     valsl=scoredict.values()
     keysl=scoredict.keys()
@@ -133,5 +138,4 @@ def getSimtoSum(i, paragraph):
 
     return finallist
 
-
-print(getSimtoSum(['Hi how are', '\n', '', 'you'], 'Hi how are \n you' ))
+print(getSimtoSum(['', 'Hello', 'how'], 'Hello how'))

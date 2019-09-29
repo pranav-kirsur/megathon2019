@@ -20,7 +20,7 @@ def subs(text,find,replace):
 
 
 def getTextDict():
-    with open('kech102.txt', 'r', encoding='utf8') as f:
+    with open('9_biology_6.txt', 'r', encoding='utf8') as f:
         data = f.read()
         paras = list(data.split('\n\n'))
         para_filter1 = []
