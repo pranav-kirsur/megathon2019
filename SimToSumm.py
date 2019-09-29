@@ -114,32 +114,32 @@ It is with reference to these complex animal and plant bodies that we will now t
 """
 
 
+def getSimtoSum(paragraph):
+    l=_create_frequency_table(paragraph)
+    i=sent_tokenize(paragraph)
+    print(type(i))
+    scoredict = _score_sentences(i,l)
+    threshold = _find_average_score(scoredict)
+    summary = _generate_summary(i, scoredict, 1.5 * threshold)
+    #print(scoredict.values()/len(scoredict.keys().split()))
+    valsl=scoredict.values()
+    keysl=scoredict.keys()
+    finallist=[]
+    keysarr=[]
+    scorearr=[]
+    for i in scoredict:
+        keysarr.append(i)
+    for i in scoredict:
+        scorearr.append(scoredict[i])
+    #print (keysarr)
+    #print (scorearr)
 
-l=_create_frequency_table(paragraph)
-i=sent_tokenize(paragraph)
+    for i in range (0,len(keysarr)):
+    #    print (keysarr[i])
+        lent=len(keysarr[i].split())
+    #    print (lent)
+        finallist.append(scorearr[i]/lent)
 
-scoredict = _score_sentences(i,l)
-threshold = _find_average_score(scoredict)
-summary = _generate_summary(i, scoredict, 1.5 * threshold)
-#print(scoredict.values()/len(scoredict.keys().split()))
-valsl=scoredict.values()
-keysl=scoredict.keys()
-finallist=[]
-keysarr=[]
-scorearr=[]
-for i in scoredict:
-    keysarr.append(i)
-for i in scoredict:
-    scorearr.append(scoredict[i])
-#print (keysarr)
-#print (scorearr)
+    return (finallist)
 
-for i in range (0,len(keysarr)):
-#    print (keysarr[i])
-    lent=len(keysarr[i].split())
-#    print (lent)
-    finallist.append(scorearr[i]/lent)
-
-
-
-print (finallist)
+print(getSimtoSum(paragraph))
