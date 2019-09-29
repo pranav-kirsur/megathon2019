@@ -7,9 +7,4 @@ def discourse_connector(sentence):
             count+=1
             sentence = sentence.replace(connector + " ", "")
             # print(sentence)
-    return count/len(sentence)
-
-sentences = ['Jai is awesome because he is cool despite the fact that Bhavyajeet sucks dicks', 'Pranav sleeping despite the fact that Pranav is awake']
-
-for i in sentences:
-    print(discourse_connector(i))
+    return count/len(sentence.split())

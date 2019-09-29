@@ -1,7 +1,8 @@
 import nltk
+
 import re
-# nltk.download('punkt')
-# nltk.download('averaged_perceptron_tagger')
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import SnowballStemmer
@@ -15,7 +16,7 @@ def number_of_superlatives(sentence):
     for i in pos_tagged:
         if i[1] == 'JJS' or i[1] == 'RBS':
             num += 1
-    return num / len(sentence)
+    return num / len(sentence.split())
 
 
 def has_number(input):
@@ -31,7 +32,7 @@ def abbrevs_per_length(sentence):
     for i in tokenized:
         if re.match(r'^[A-Z\.]{2,}$',i):
             num+=1
-    return num / len(sentence)
+    return num / len(sentence.split())
 
 def nouns_per_length(sentence):
     tokenized = word_tokenize(sentence)
@@ -40,7 +41,7 @@ def nouns_per_length(sentence):
     for i in pos_tagged:
         if i[1] == 'NN' or i[1] == 'NNS' or i[1] == 'NNP' or i[1] == 'NNPS':
             num += 1
-    return num / len(sentence)
+    return num / len(sentence.split())
 
 def pronouns_per_length(sentence):
     tokenized = word_tokenize(sentence)
@@ -49,7 +50,7 @@ def pronouns_per_length(sentence):
     for i in pos_tagged:
         if i[1] == 'PRP' or i[1] == 'PRP$':
             num += 1
-    return num / len(sentence)
+    return num / len(sentence.split())
 
 
 #Check special words
