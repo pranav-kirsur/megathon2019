@@ -38,4 +38,4 @@
     - Similarity to Title
     - Other Sequence Labelling things
 2. Neural Network Design 
-   
+Currently being done on the basis of rules , a neural network is yet to be designed for the same 
