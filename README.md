@@ -41,3 +41,6 @@ Fill in the blank question generation from textbooks. Made for Megathon 2019 @ I
     - Other Sequence Labelling things
 2. Neural Network Design 
    
+## The caveats with the solution
+The training data was too less to train a neural network for sentence selection. A rule based system may outperform in this case. Also the neural network would have to be small which in this case will not perform as language based problems have historically required very large neural networks. <br>
+The current word selection just relies on a set of rules. A better solution may involve find the keywords using an already working algorithm and combining its result to improve not only sentence selection. But also combine it with the word selection to improve.
