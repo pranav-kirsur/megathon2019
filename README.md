@@ -1,5 +1,7 @@
 # megathon2019
 
+Fill in the blank question generation from textbooks. Made for Megathon 2019 @ IIIT Hyderabad
+
 
 ## Pre-requisites
 1. Removal of paragraphs from the text - Bhavyajeet / Jai
